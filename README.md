@@ -1,13 +1,6 @@
 
 <div align="center">
 
-  <h1>
-    <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> 
-    <b>GitHub Streak</b>
-  </h1>
-
-  <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roberrcast&theme=dark" />
-
   <br/><br/>
 
   <table align="center">
