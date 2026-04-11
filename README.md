@@ -3,7 +3,7 @@
 
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roberrcast&theme=dark" /> </p>
 
-<div align="center">
+<div>
 | Website | Programming |
 | ------------- | ------------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js,sass,vite,react"/> | <img src="https://skillicons.dev/icons?i=bash,vim,github"/> |
