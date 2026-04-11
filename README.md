@@ -11,6 +11,9 @@
     <a href="https://www.instagram.com/rodriguezrobc" target="_blank">
       <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
+    <a href="mailto:dunamis1.16@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
   </p>
 
   <img alt="Robert's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=roberrcast&show_icons=true&theme=tokyonight" />
