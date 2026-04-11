@@ -23,12 +23,12 @@
 
 ## 📖 About me
 
-* 💻 I'm an aspiring **Front End Engineer** currently training at EBAC[cite: 2, 10].
+* 💻 I'm an aspiring **Front End Engineer** currently training at EBAC.
 * 🛠️ I specialize in building responsive web applications using **React, JavaScript, and TypeScript**[cite: 6, 53].
-* 🏛️ I developed a **Virtual Gallery** that dynamically consumes the **Art Institute of Chicago API**[cite: 35, 36].
+* 🏛️ I am currently developing a **Virtual Gallery** that dynamically consumes the **Art Institute of Chicago API**[cite: 35, 36].
 * 🗣️ I am a **C2-certified bilingual professional** with a background in complex medical and legal interpretation[cite: 15, 62].
 * 🎓 I hold a **Degree in Theology** and am currently specializing in modern software development[cite: 10, 11].
-* 🌐 You can see my deployed projects, including e-commerce simulations and landing pages, on **[Netlify](https://github.com/roberrcast)**[cite: 3, 28, 34].
+* 🌐 You can see my deployed projects, including e-commerce simulations and landing pages, on **[Netlify](https://app.netlify.com/teams/dunamis1-16/projects))**[cite: 3, 28, 34].
 
 <div align="center">
 
