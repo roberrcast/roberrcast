@@ -26,7 +26,7 @@
 
 ## 📖 About me
 
-* 💻 I'm an aspiring **Front End Engineer** currently training at EBAC.
+* 💻 I'm aspiring to become a **Front End Engineer** currently training at EBAC.
 * 🛠️ I specialize in building responsive web applications using **React, JavaScript, and TypeScript**.
 * 🏛️ I am currently developing a **Virtual Gallery** that dynamically consumes the **Art Institute of Chicago API**.
 * 🗣️ I am a **C2-certified bilingual professional** with a background in complex medical and legal interpretation.
