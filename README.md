@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite,bootstrap"/></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,npm,bash,git,neovim,jest,postman"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,npm,bash,git,neovim,jest,postman,redux"/></td>
     </tr>
   </table>
 
