@@ -30,7 +30,7 @@
 * 🛠️ I specialize in building responsive web applications using **React, JavaScript, and TypeScript**.
 * 🏛️ I am currently developing a **Virtual Gallery** that dynamically consumes the **Art Institute of Chicago API**.
 * 🗣️ I am a **C2-certified bilingual professional** with a background in complex medical and legal interpretation.
-* 🎓 I hold a **Degree in Theology** and am currently specializing in modern software development.
+* 🎓 I hold a **Degree in Theology** and am currently specializing in modern web development.
 * 🌐 You can see my deployed projects, including e-commerce simulations and landing pages, on **[Netlify](https://app.netlify.com/teams/dunamis1-16/projects)**.
 
 <div align="center">
