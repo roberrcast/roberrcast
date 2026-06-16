@@ -24,6 +24,10 @@
 
 </div>
 
+<div align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberrcast&layout=compact&theme=tokyonight" />
+  </div>
+
 ## 📖 About me
 
 * 💻 I'm aspiring to become a **Front End Engineer** currently training at EBAC.
