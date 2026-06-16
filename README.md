@@ -58,7 +58,7 @@
 
 ### 🏛️ [Virtual Gallery](https://github.com/roberrcast/artsie)
 *   **Description:** An interactive web application that dynamically consumes the Art Institute of Chicago API to showcase artwork with smooth asynchronous data handling.
-*   **Stack:** React, TypeScript, Vite, Styled-Components, Vitest.
+*   **Stack:** React, TypeScript, Vite, Styled-Components, Vitest, Redux toolkig.
 *   **Live Demo:** [View on Netlify](https://theopengallery.netlify.app)
 
 ### 🛒 [Landing Page — Photography portfolio mock](https://github.com/roberrcast/portfolio-landing)
