@@ -53,3 +53,20 @@
   </table>
 
 </div>
+
+## 🚀 Projects
+
+### 🏛️ [Virtual Gallery](https://github.com/roberrcast/artsie)
+*   **Description:** An interactive web application that dynamically consumes the Art Institute of Chicago API to showcase artwork with smooth asynchronous data handling.
+*   **Stack:** React, TypeScript, Vite, Styled-Components, Vitest.
+*   **Live Demo:** [View on Netlify](https://theopengallery.netlify.app)
+
+### 🛒 [Landing Page — Photography portfolio mock](https://github.com/roberrcast/portfolio-landing)
+*   **Description:** A simulation of an landing page for a license photography shop (using real personal pictures), focusing on clean semantic HTML and modular styling structure.
+*   **Stack:** React, Typescript, Styled-components, Vite.
+*   **Live Demo:** [View on Netlify](https://bodyofwork.netlify.app)
+
+### 📰 [E-commerce (mock) — Origen & Grano](https://github.com/roberrcast/origengrano)
+*   **Description:** A simulation tailored for an E-commerce experience, responsive and optimized.
+*   **Stack:** React, Vite, Typescript, Styled-Components.
+*   **Live Demo:** [View on Netlify](https://origenygrano.netlify.app)
