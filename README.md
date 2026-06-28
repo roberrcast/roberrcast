@@ -47,8 +47,8 @@
       <th>Environment & Workflow</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite,bootstrap"/></td>
-      <td><img src="https://skillicons.dev/icons?i=nodejs,npm,bash,git,neovim,jest,postman,redux"/></td>
+      <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass,vite,redux"/></td>
+      <td><img src="https://skillicons.dev/icons?i=nodejs,npm,bash,git,neovim,vitest,postman"/></td>
     </tr>
   </table>
 
